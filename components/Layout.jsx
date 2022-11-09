@@ -73,7 +73,9 @@ export default function Layout({children, title, description, home}) {
         </div>
       )}
 
-      <footer>Footer</footer>
+      <footer>
+        <h2 className='footer'>© 2021 HuhuGerman</h2>
+      </footer>
     </div>
   );
 }
