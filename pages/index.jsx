@@ -6,7 +6,7 @@ export default function Home() {
     <Layout
         title="Home | HuhuGerman"
         description="Alemán para curiosos"
-        home
+        home //home={true}
     >
       <section className={utilStyles.headingMd}>
         <h2>¿Por qué aprender alemán?</h2>
